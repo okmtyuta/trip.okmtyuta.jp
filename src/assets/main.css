@@ -1,0 +1,19 @@
+#app {
+  background-color: #eff8fe;
+  min-height: 100vh;
+  display: grid;
+  grid-template:
+    "header" 100px
+    "main" 1fr
+    "footer" 100px
+  ;
+}
+header {
+  grid-area: header;
+}
+main {
+  grid-area: main;
+}
+footer {
+  grid-area: footer;
+}
