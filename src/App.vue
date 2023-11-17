@@ -14,7 +14,7 @@ import '@okmtyuta/awesome-css/reset.css'
   <main class="main">
     <div class="contents">
       <div class="me">
-        <img alt="me" class="me-img" src="@/assets/me.jpg" height="256" />
+        <img alt="me" class="me-img" src="@/assets/me.jpg" />
       </div>
       <ul class="content-list">
         <li><a class="link" href="https://about.me.okmtyuta.jp">奥多摩に行った話</a></li>
